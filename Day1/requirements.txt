@@ -1,6 +1,7 @@
-Django
-psycopg[binary] pgvector
-dj-database-url
-pytest
-pytest-django 
-ruff
+Django;
+psycopg[binary];
+pgvector;
+dj-database-url;
+pytest;
+pytest-django ;
+ruff;
